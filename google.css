@@ -1,0 +1,22 @@
+table{
+    border: 0;
+    width: 90%;
+}
+
+.searchArea{
+    background-color: #EEEEEE;
+}
+
+.seacrhBelowLeft{
+    width: 37%;
+    background-color: #7EE5DA;
+}
+
+.searchBelowMiddle{
+    background-color: #70CCC2;
+    font-size: -1;
+}
+
+.searchBelowRight{
+    background-color: #62B3AA;
+}
